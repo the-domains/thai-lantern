@@ -1,0 +1,28 @@
+name: Thai Lantern
+favicon: null
+layout_spectrum: 0.43720138212665915
+typography_spectrum: 0.04454927914775908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.008741280296817422
+  lightness: 0.4996732762083411
+  saturation: 0.36831607134081423
+  rhythmicContrast: 0.1106477277353406
+purpose: []
