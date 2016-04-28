@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Thai Lantern]]></title>
         <description><![CDATA[Thai Lantern]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thai-lantern/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 15:28:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 03:23:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thai-lantern/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6290cdda-a645-450d-b96a-e87250cc6994.jpg">]]></description>
-            <link>undefined526054c8-4e38-435a-b73e-851446a6f138/index.html</link>
+            <title><![CDATA[To honor and remember Grandpa Lion...]]></title>
+            <description><![CDATA[<article><h1>To honor and remember Grandpa Lion...</h1><p>We love you HTVS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe006a101eb87a024f2480176f99d01ac61654dc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thai-lantern/526054c8-4e38-435a-b73e-851446a6f138/index.html</link>
             <guid isPermaLink="false">526054c8-4e38-435a-b73e-851446a6f138</guid>
-            <pubDate>Sat, 13 Feb 2016 15:27:58 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 03:23:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
